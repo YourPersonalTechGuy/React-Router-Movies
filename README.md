@@ -18,16 +18,16 @@ Topics:
 * [ ] In a separate terminal cd into the `client` folder and run `npm install` to download dependencies.
 * [ ] Still inside the `client` folder run `npm start` to run the client application.
 
-* [ ] Once your application is up and running on the client, you should see a browser window that looks like [this](https://tk-assets.lambdaschool.com/c6b3e8d8-afe0-4663-82da-60b1de76f649_movies-home.png) at `localhost:3000` (although the port number will be different if 3000 is not being used).
+  * [ ] Once your application is up and running on the client, you should see a browser window that looks like [this](https://tk-assets.lambdaschool.com/c6b3e8d8-afe0-4663-82da-60b1de76f649_movies-home.png) at `localhost:3000` (although the port number will be different if 3000 is not being used).
 
-### Task 2: MVP
+  ### Task 2: MVP
 
-#### Design Files
+  #### Design Files
 
-Once you are done your application will have two routes:
+  Once you are done your application will have two routes:
 
-* [ ] [Screenshot of route '/'](https://tk-assets.lambdaschool.com/b9ced241-681f-432a-9047-ef2ba7e34946_first-route.png)
-* [ ] [Screenshot of route '/movies/:id'](https://tk-assets.lambdaschool.com/06f9f448-2804-4b4a-9408-41904af96a4e_second-route.png)
+  * [ ] [Screenshot of route '/'](https://tk-assets.lambdaschool.com/b9ced241-681f-432a-9047-ef2ba7e34946_first-route.png)
+  * [ ] [Screenshot of route '/movies/:id'](https://tk-assets.lambdaschool.com/06f9f448-2804-4b4a-9408-41904af96a4e_second-route.png)
 
 #### Set up Routes
 
